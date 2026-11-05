@@ -46,9 +46,9 @@ How to run:
 - Web Browser
 
 ## Screenshots
-Question 1: 
-Question 2: 
-Question 3:
+Question 1: outputq1after.png, outputq1before.png
+Question 2: outputq2above.png, outputq2alphabet.png, outputq2below.png, outputq2empty.png, outputq2equal.png
+Question 3: outputq3firstclick.png, outputq3secondclick.png
 
 ## Conclusion
 This lab helped me understand how JavaScript functions,
