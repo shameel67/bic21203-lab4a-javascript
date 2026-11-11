@@ -3,8 +3,8 @@
 # BIC21203 - Lab 4a: Client-Side Scripting (JavaScript)
 
 ## Student Information
-Name: Your Name
-Student ID: Your Student ID
+Name: Muhammad Shameel bin Sharifuddin
+Student ID: AI240030
 Course: BIC21203 Web Development
 
 ## Lab Description
